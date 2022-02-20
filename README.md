@@ -1,8 +1,8 @@
-# La Zone Codée de h0ldhaven
+# La zone de code de h0ldhaven
 
 <hr/>
 
-#### Cet espace est la zone ou h0ldhaven s'entraine à modifier ou à créer des codes ou morceaux de codes spécifiques, ils peuvent donc par définition, évoluer à tout moment.
+#### Cet espace est la zone ou je m'entraine à modifier ou à créer des codes ou morceaux de codes spécifiques, ils peuvent donc par définition, évoluer à tout moment.
 
 ##### Cette page peut contenir les codes suivants :
 
@@ -16,9 +16,9 @@
 > - Des pages ou Fragment de pages en langage "Python" pour des sites ou logiciels divers.
 > - Des pages ou Fragment de pages en langage "C#" ou "C++" pour des sites ou logiciels divers.
 
-> NOTE : Des plugins et autres intégrations sont comprises dans le terme "logiciel".
-
 <br/>
+
+> NOTE : Des plugins et autres intégrations sont comprises dans le terme "logiciel". \
 
 > PAR EXEMPLE : 
 > - Un script pour gtaV RP en langage "C#" ; 
