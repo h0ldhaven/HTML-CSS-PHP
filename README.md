@@ -35,7 +35,7 @@ Si vous ne connaissez pas Github :
 <br/>
 <hr/>
 
-> Attention : Comme précisé ci-dessus, le code est amené à évoluer de manière perpetuelle et sans préavis, il peut donc être supprimé à des fin de mise à jour, correction ou autre raison qui sera apporté par son créateur.
+###### Attention : Comme précisé ci-dessus, le code est amené à évoluer de manière perpetuelle et sans préavis, il peut donc être supprimé à des fin de mise à jour, correction ou autre raison qui sera apporté par son créateur.
 
 <hr/>
 
