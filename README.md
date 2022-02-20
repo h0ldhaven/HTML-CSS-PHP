@@ -7,9 +7,9 @@
 L'objectif principal est le partage entre créateur de code que vous soyez débutant ou non.
 
 Si vous ne connaissez pas Github :
-##### - Si vous avez des suggestions de modification sur un fichier spécifique, n'hésitez pas à utiliser l'outil "pull request" [ici](https://github.com/h0ldhaven/Zone-De-Code/pulls).
-##### - Si vous avez des problème dans votre code, n'hésitez pas à faire un rapport de bug avec l'outil "issues" [ici](https://github.com/h0ldhaven/Zone-De-Code/issues) (avec le bon tag).
-##### - Si vous avez des questions ou si vous souhaitez simplement discuter avec nous, vous pouvez le faire dans l'onglet "Discussion" [ici](https://github.com/h0ldhaven/Zone-De-Code/discussions).
+##### ▪ Si vous avez des suggestions de modification sur un fichier spécifique, n'hésitez pas à utiliser l'outil "pull request" [ici](https://github.com/h0ldhaven/Zone-De-Code/pulls).
+##### ▪ Si vous avez des problème dans votre code, n'hésitez pas à faire un rapport de bug avec l'outil "issues" [ici](https://github.com/h0ldhaven/Zone-De-Code/issues) (avec le bon tag).
+##### ▪ Si vous avez des questions ou si vous souhaitez simplement discuter avec nous, vous pouvez le faire dans l'onglet "Discussion" [ici](https://github.com/h0ldhaven/Zone-De-Code/discussions).
 
 <hr/>
 
