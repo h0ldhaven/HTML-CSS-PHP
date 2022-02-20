@@ -16,8 +16,8 @@
 > - Des pages ou Fragment de pages en langage "Python" pour des *sites ou *logiciels divers.
 > - Des pages ou Fragment de pages en langage "C#" ou "C++" pour des *sites ou *logiciels divers.
 
-##### - *Logiciel = ensemble de programmes, qui permet à un ordinateur ou à un système informatique d'assurer une tâche ou une fonction en particulier.
-##### - *Site = Ensemble de pages web et de ressources reliées par des liens hypertextes.
+- *Logiciel = ensemble de programmes, qui permet à un ordinateur ou à un système informatique d'assurer une tâche ou une fonction en particulier.
+- *Site = Ensemble de pages web et de ressources reliées par des liens hypertextes.
 
 <br/>
 
