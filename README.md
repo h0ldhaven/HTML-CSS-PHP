@@ -9,6 +9,8 @@ Si vous ne connaissez pas Github :
 - Si vous avez des suggestions sur un fichier spécifique, n'hésitez pas à utiliser l'outil "pull request" [ici](https://github.com/h0ldhaven/Zone-De-Code/pulls).
 - Si vous avez des problème dans votre code, n'hésitez pas à faire un rapport de bug avec l'outil "issues" [ici](https://github.com/h0ldhaven/Zone-De-Code/issues).
 
+<hr/>
+
 ##### Cette page peut contenir les codes suivants :
 
 > - Des pages ou Fragment de pages en langage "HTML" pour des sites ou logiciels divers.
