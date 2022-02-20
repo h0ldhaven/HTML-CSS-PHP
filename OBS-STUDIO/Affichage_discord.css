@@ -55,6 +55,8 @@ body {
     padding: 4px 5px 0px !important;
     /* On arrondis les angles de 4 pixels */
     border-radius: 4px;
+    /* on baisse la surbrillance du pseudo quand la personne ne parle pas */
+    filter: brightness(60%);
   }
   
   /* Position et style de l'écriture du pseudo */
@@ -85,4 +87,9 @@ body {
     filter: brightness(120%);
     /* Couleur du cercle quand la personne parle */
     border-color: rgba(3,34,76,0.8) ! important;
+  }
+
+  /* Quand la personne parle, on met en surbrillance son pseudo */
+  .speaking + .user {
+    filter: brightness(120%);
   }
