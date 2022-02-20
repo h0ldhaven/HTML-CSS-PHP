@@ -1,14 +1,20 @@
-# HTML-CSS-PHP
+# La Zone Codée de h0ldhaven
 
 <hr/>
 
 #### Cet espace est la zone ou h0ldhaven s'entraine à modifier ou à créer des codes ou morceaux de codes spécifiques, ils peuvent donc par définition, évoluer à tout moment
 
-##### Ces codes peuvent inclure :
+##### Cette page peut contenir les codes suivants :
 
-> - Des pages ou Fragment de pages en langage "HTML" pour des sites ou logiciels divers
-> - Des pages ou Fragment de pages en langage "CSS" pour des sites ou logiciels divers
-> - Des pages ou Fragment de pages en langage "PHP" pour des sites ou logiciels divers
+> - Des pages ou Fragment de pages en langage "HTML" pour des sites ou logiciels divers.
+> - Des pages ou Fragment de pages en langage "CSS" pour des sites ou logiciels divers.
+> - Des pages ou Fragment de pages en langage "PHP" pour des sites ou logiciels divers.
+
+##### Elle peut eventuellement contenir :
+
+> - Des pages ou Fragment de pages en langage "Javascript" pour des sites ou logiciels divers.
+> - Des pages ou Fragment de pages en langage "Python" pour des sites ou logiciels divers.
+> - Des pages ou Fragment de pages en langage "C#" ou "C++" pour des sites ou logiciels divers.
 
 <br/>
 
