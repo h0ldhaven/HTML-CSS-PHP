@@ -1,4 +1,4 @@
-# Le zone OBS / OBS-STUDIO
+# La zone OBS / OBS-STUDIO
 
 #### Cet espace est la zone ou je m'entraine à modifier ou à créer des codes ou morceaux de codes spécifiques, ils peuvent donc par définition, évoluer à tout moment.
 
