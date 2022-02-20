@@ -17,7 +17,9 @@
 > - Des pages ou Fragment de pages en langage "C#" ou "C++" pour des sites ou logiciels divers.
 
 > NB : Des plugins et autres intégrations sont comprises dans le terme "logiciel".
-> EX : - Script pour gtaV RP en langage "C#" ; - Morceau de code en langage "CSS" pour le logiciel OBS.
+> EX : 
+> - Script pour gtaV RP en langage "C#" ; 
+> - Morceau de code en langage "CSS" pour le logiciel OBS.
 
 <br/>
 
