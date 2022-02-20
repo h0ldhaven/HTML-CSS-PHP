@@ -1,4 +1,4 @@
-# La zone de code -> OBS / OBS-STUDIO
+# La zone de code > OBS / OBS-STUDIO
 
 #### Cet espace est avant-tout une zone de partage de script ou fichiers/logiciels entre créateurs de code, débutant ou non.
 
