@@ -5,6 +5,10 @@
 #### Cet espace est la zone ou je m'entraine à modifier ou à créer des codes ou morceaux de codes spécifiques, ils peuvent donc par définition, évoluer à tout moment.
 L'objectif principal est le partage entre créateur de code que vous soyez débutant ou non.
 
+Si vous ne connaissez pas Github :
+- Si vous avez des suggestions ou des requetes, n'hésitez pas à les ouvrir dans "Pull Request".
+- Si vous avez des problème dans votre code, n'hésitez pas à faire un rapport de bug dans la catégorie "issue"
+
 ##### Cette page peut contenir les codes suivants :
 
 > - Des pages ou Fragment de pages en langage "HTML" pour des sites ou logiciels divers.
