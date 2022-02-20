@@ -6,18 +6,17 @@
 
 ##### Cette page peut contenir les codes suivants :
 
-> - Des pages ou Fragment de pages en langage "HTML" pour des *sites ou logiciels divers.
-> - Des pages ou Fragment de pages en langage "CSS" pour des *sites ou logiciels divers.
-> - Des pages ou Fragment de pages en langage "PHP" pour des *sites ou logiciels divers.
+> - Des pages ou Fragment de pages en langage "HTML" pour des sites ou logiciels divers.
+> - Des pages ou Fragment de pages en langage "CSS" pour des sites ou logiciels divers.
+> - Des pages ou Fragment de pages en langage "PHP" pour des sites ou logiciels divers.
 
 ##### Elle peut eventuellement contenir :
 
-> - Des pages ou Fragment de pages en langage "Javascript" pour des *sites ou *logiciels divers.
-> - Des pages ou Fragment de pages en langage "Python" pour des *sites ou *logiciels divers.
-> - Des pages ou Fragment de pages en langage "C#" ou "C++" pour des *sites ou *logiciels divers.
+> - Des pages ou Fragment de pages en langage "Javascript" pour des sites ou logiciels divers.
+> - Des pages ou Fragment de pages en langage "Python" pour des sites ou logiciels divers.
+> - Des pages ou Fragment de pages en langage "C#" ou "C++" pour des sites ou logiciels divers.
 
-- *Logiciel = ensemble de programmes, qui permet à un ordinateur ou à un système informatique d'assurer une tâche ou une fonction en particulier.
-- *Site = Ensemble de pages web et de ressources reliées par des liens hypertextes.
+> NB: Des programmes, plugins et autres intégration sont comprises dans le terme "logiciel".
 
 <br/>
 
