@@ -60,10 +60,10 @@ body {
   /* Position et style de l'écriture du pseudo */
   .name {
     /* Largeur, vous pouvez enlever les commentaires si vous souhaitez définir une largeur max par avatar */
-    /* Width: 100px; */
+    /* width: 100px; */
     /* Hauteur de la boite, on ne met pas de width pour eviter que la boite mange les pseudo */
     height: 17px;
-    /* Heuteur de ligne */
+    /* Hauteur de ligne */
     line-height: 17px !important;
     white-space: nowrap;
     text-overflow: clip;
