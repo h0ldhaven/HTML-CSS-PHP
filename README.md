@@ -3,7 +3,7 @@
 <hr/>
 
 #### Cet espace est la zone ou je m'entraine à modifier ou à créer des codes ou morceaux de codes spécifiques, ils peuvent donc par définition, évoluer à tout moment.
-L'objectif ci est de partager et créer des choses et essayer comprendre comment cela fonctionne, que vous soyez débutant ou non.
+L'objectif principal est le partage entre créateur de code que vous soyez débutant ou non.
 
 ##### Cette page peut contenir les codes suivants :
 
