@@ -33,9 +33,12 @@ Si vous ne connaissez pas Github :
 > - Un morceau de code en langage "CSS" pour personnaliser une source navigateur sur le logiciel OBS.
 
 <br/>
+<hr/>
 
 ###### Attention : Comme précisé ci-dessus, le code est amené à évoluer de manière perpetuelle et sans préavis, il peut donc être supprimé à des fin de mise à jour, correction ou autre raison qui sera apporté par son créateur.
 
 <hr/>
 
 ###### Vous pouvez réutiliser le code à votre convenance, l'objectif ici est avant tout le partage car il est très important pour progresser en programmation que l'on débute ou non.
+
+<hr/>
