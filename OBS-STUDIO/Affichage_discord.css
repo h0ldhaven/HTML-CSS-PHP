@@ -65,7 +65,9 @@ body {
     height: 17px;
     /* Hauteur de ligne */
     line-height: 17px !important;
+    /* gestion des espaces entre les textes */
     white-space: nowrap;
+    /* débordement du text */
     text-overflow: clip;
     /* On centre le texte */
     text-align: center;
