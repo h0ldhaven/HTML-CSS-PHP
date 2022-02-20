@@ -6,8 +6,8 @@
 L'objectif principal est le partage entre créateur de code que vous soyez débutant ou non.
 
 Si vous ne connaissez pas Github :
-- Si vous avez des suggestions ou des requetes, n'hésitez pas à les ouvrir dans "Pull Request".
-- Si vous avez des problème dans votre code, n'hésitez pas à faire un rapport de bug dans la catégorie "issue"
+- Si vous avez des suggestions sur un fichier spécifique, n'hésitez pas à utiliser l'outil "pull request" [ici](https://github.com/h0ldhaven/Zone-De-Code/pulls).
+- Si vous avez des problème dans votre code, n'hésitez pas à faire un rapport de bug avec l'outil "issues" [ici](https://github.com/h0ldhaven/Zone-De-Code/issues).
 
 ##### Cette page peut contenir les codes suivants :
 
