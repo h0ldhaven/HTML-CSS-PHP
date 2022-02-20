@@ -1,10 +1,10 @@
-# La zone OBS / OBS-STUDIO
+# La zone de code -> OBS / OBS-STUDIO
 
-#### Cet espace est la zone ou je m'entraine à modifier ou à créer des codes ou morceaux de codes spécifiques, ils peuvent donc par définition, évoluer à tout moment.
+#### Cet espace est avant-tout une zone de partage de script ou fichiers/logiciels entre créateurs de code, débutant ou non.
 
 <hr/>
 
-L'objectif principal est le partage entre créateur de code que vous soyez débutant ou non.
+L'objectif premier est de partager vos idées en programmation, qu'elles soient matérialisées ou non et ceux, quel que soit vos moyens et vos compétences.
 
 Si vous ne connaissez pas Github :
 ##### ▪ Si vous avez des suggestions de modification sur un fichier spécifique, n'hésitez pas à utiliser l'outil "pull request" [ici](https://github.com/h0ldhaven/Zone-De-Code/pulls).
