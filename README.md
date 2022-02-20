@@ -18,7 +18,7 @@
 
 <br/>
 
-> NOTE : Des plugins et autres intégrations sont comprises dans le terme "logiciel". \
+> NOTE : Des plugins et autres intégrations sont comprises dans le terme "logiciel". 
 
 > PAR EXEMPLE : 
 > - Un script pour gtaV RP en langage "C#" ; 
