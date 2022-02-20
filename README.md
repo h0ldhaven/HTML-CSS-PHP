@@ -6,4 +6,4 @@
 
 <br/>
 
-###### <font color="red">Attention : Comme précisé ci-dessus, le code est amené à évoluer de manière perpetuelle et sans préavis, il peut donc être supprimé à des fin de mise à jour, correction ou autre raison qui sera apporté par son créateur.</font>
+<h6> <fonts color="red">Attention : Comme précisé ci-dessus, le code est amené à évoluer de manière perpetuelle et sans préavis, il peut donc être supprimé à des fin de mise à jour, correction ou autre raison qui sera apporté par son créateur.</fonts></h6>
