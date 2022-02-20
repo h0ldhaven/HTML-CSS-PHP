@@ -6,9 +6,9 @@
 
 ##### Ces codes peuvent inclure :
 
-> - 1
-> - 2
-> - 3
+> - Des pages ou Fragment de pages en langage "HTML" pour des sites ou logiciels divers
+> - Des pages ou Fragment de pages en langage "CSS" pour des sites ou logiciels divers
+> - Des pages ou Fragment de pages en langage "PHP" pour des sites ou logiciels divers
 
 <br/>
 
