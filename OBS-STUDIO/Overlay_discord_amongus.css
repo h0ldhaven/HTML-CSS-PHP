@@ -103,7 +103,7 @@ body {
 /* JOUEUR ROUGE */
 /* image de profil quand vous ne parlez pas */
 .voice-state:nth-child(1) .avatar {
-    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/rouge.png');
+    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/red.png');
 }
 /* Quand la personne ne parle pas, on met en sousbrillance son pseudo */
 .voice-state:nth-child(1) .user .name {
@@ -113,7 +113,7 @@ body {
 }
 /* image de profil quand vous parlez */
 .voice-state:nth-child(1) .avatar.speaking {
-    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/rouge.png');
+    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/red.png');
     border-color: rgba(255,0,0,0.8) !important;
     filter: brightness(120%);
 }
@@ -127,7 +127,7 @@ body {
 /* JOUEUR BLEU */
 /* image de profil quand vous ne parlez pas */
 .voice-state:nth-child(2) .avatar {
-    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/bleu.png');
+    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/blue.png');
 }
 /* Quand la personne ne parle pas, on met en sousbrillance son pseudo */
 .voice-state:nth-child(2) .user .name {
@@ -137,7 +137,7 @@ body {
 }
 /* image de profil quand vous parlez */
 .voice-state:nth-child(2) .avatar.speaking {
-    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/bleu.png');
+    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/blue.png');
     border-color: rgba(0,0,250,0.8) !important;
     filter: brightness(120%);
 }
@@ -151,7 +151,7 @@ body {
 /* JOUEUR VERT */
 /* image de profil quand vous ne parlez pas */
 .voice-state:nth-child(3) .avatar {
-    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/vert.png');
+    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/green.png');
 }
 /* Quand la personne ne parle pas, on met en sousbrillance son pseudo */
 .voice-state:nth-child(3) .user .name {
@@ -161,7 +161,7 @@ body {
 }
 /* image de profil quand vous parlez */
 .voice-state:nth-child(3) .avatar.speaking {
-    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/vert.png');
+    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/green.png');
     border-color: rgba(0,200,0,0.8) !important;
 }
 /* Quand la personne parle, on met en surbrillance son pseudo */
@@ -173,7 +173,7 @@ body {
 /* JOUEUR ROSE */
 /* image de profil quand vous ne parlez pas */
 .voice-state:nth-child(4) .avatar {
-    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/rose.png');
+    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/pink.png');
 }
 /* Quand la personne ne parle pas, on met en sousbrillance son pseudo */
 .voice-state:nth-child(4) .user .name {
@@ -183,7 +183,7 @@ body {
 }
 /* image de profil quand vous parlez */
 .voice-state:nth-child(4) .avatar.speaking {
-    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/rose.png');
+    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/pink.png');
     border-color: rgba(212, 22, 181,0.8) !important;
 }
 /* Quand la personne parle, on met en surbrillance son pseudo */
@@ -217,7 +217,7 @@ body {
 /* JOUEUR JAUNE */
 /* image de profil quand vous ne parlez pas */
 .voice-state:nth-child(6) .avatar {
-    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/jaune.png');
+    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/yellow.png');
 }
 /* Quand la personne ne parle pas, on met en sousbrillance son pseudo */
 .voice-state:nth-child(6) .user .name {
@@ -227,7 +227,7 @@ body {
 }
 /* image de profil quand vous parlez */
 .voice-state:nth-child(6) .avatar.speaking {
-    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/jaune.png');
+    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/yellow.png');
     border-color: rgba(255,255,0,0.8) !important;
 }
 /* Quand la personne parle, on met en surbrillance son pseudo */
@@ -236,10 +236,10 @@ body {
     background-color: rgba(255,255,0,0.8) !important;
 }
 
-/* JOUEUR GRIS */
+/* JOUEUR NOIR */
 /* image de profil quand vous ne parlez pas */
 .voice-state:nth-child(7) .avatar {
-    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/gris.png');
+    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/black.png');
 }
 /* Quand la personne ne parle pas, on met en sousbrillance son pseudo */
 .voice-state:nth-child(7) .user .name {
@@ -249,7 +249,7 @@ body {
 }
 /* image de profil quand vous parlez */
 .voice-state:nth-child(7) .avatar.speaking {
-    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/gris.png');
+    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/black.png');
     border-color: rgba(122, 122, 122, 0.8) !important;
 }
 /* Quand la personne parle, on met en surbrillance son pseudo */
@@ -261,7 +261,7 @@ body {
 /* JOUEUR BLANC */
 /* image de profil quand vous ne parlez pas */
 .voice-state:nth-child(8) .avatar {
-    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/blanc.png');
+    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/white.png');
 }
 /* Quand la personne ne parle pas, on met en sousbrillance son pseudo */
 .voice-state:nth-child(8) .user .name {
@@ -271,7 +271,7 @@ body {
 }
 /* image de profil quand vous parlez */
 .voice-state:nth-child(8) .avatar.speaking {
-    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/blanc.png');
+    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/white.png');
     border-color: rgba(255, 255, 255, 0.8) !important;
 }
 /* Quand la personne parle, on met en surbrillance son pseudo */
@@ -283,7 +283,7 @@ body {
 /* JOUEUR VIOLET */
 /* image de profil quand vous ne parlez pas */
 .voice-state:nth-child(9) .avatar {
-    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/violet.png');
+    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/purple.png');
 }
 /* Quand la personne ne parle pas, on met en sousbrillance son pseudo */
 .voice-state:nth-child(9) .user .name {
@@ -293,7 +293,7 @@ body {
 }
 /* image de profil quand vous parlez */
 .voice-state:nth-child(9) .avatar.speaking {
-    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/violet.png');
+    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/purple.png');
     border-color: rgba(160, 14, 165, 0.8) !important;
 }
 /* Quand la personne parle, on met en surbrillance son pseudo */
@@ -305,7 +305,7 @@ body {
 /* JOUEUR MARRON */
 /* image de profil quand vous ne parlez pas */
 .voice-state:nth-child(10) .avatar {
-    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/marron.png');
+    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/brown.png');
 }
 /* Quand la personne ne parle pas, on met en sousbrillance son pseudo */
 .voice-state:nth-child(10) .user .name {
@@ -315,7 +315,7 @@ body {
 }
 /* image de profil quand vous parlez */
 .voice-state:nth-child(10) .avatar.speaking {
-    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/marron.png');
+    content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/brown.png');
     border-color: rgba(99, 61, 11, 0.8) !important;
 }
 /* Quand la personne parle, on met en surbrillance son pseudo */
