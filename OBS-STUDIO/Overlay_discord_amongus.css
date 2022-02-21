@@ -528,10 +528,10 @@ body {
 /* image de profil quand vous parlez */
 .voice-state:nth-child(18) .avatar.speaking {
     content: url('https://raw.githubusercontent.com/h0ldhaven/Zone-De-Code/main/OBS-STUDIO/Among-US/coral.png');
-    border-color: rgba(245, 148, 91, 0.8) !important;
+    border-color: #ff7f50 !important;
 }
 /* Quand la personne parle, on met en surbrillance son pseudo */
 .voice-state:nth-child(18) .avatar.speaking + .user .name {
     /* Couleur du bord de la boite qui contient le pseudo quand la personne parle */
-    background-color: rgba(245, 148, 91, 0.8) !important;
+    background-color: #ff7f50 !important;
 }
