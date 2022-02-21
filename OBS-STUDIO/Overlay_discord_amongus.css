@@ -124,6 +124,7 @@ body {
     /* Couleur du bord de la boite qui contient le pseudo quand la personne parle */
     background-color: rgba(255,0,0,0.8) !important;
     filter: brightness(120%);
+    text-shadow: 2px 2px 2px black;
 }
 
 /* --------------- */
@@ -150,6 +151,7 @@ body {
     /* Couleur du bord de la boite qui contient le pseudo quand la personne parle */
     background-color: rgba(0,0,250,0.8) !important;
     filter: brightness(120%);
+    text-shadow: 2px 2px 2px black;
 }
 
 /* --------------- */
@@ -174,6 +176,8 @@ body {
 .voice-state:nth-child(3) .avatar.speaking + .user .name {
     /* Couleur du bord de la boite qui contient le pseudo quand la personne parle */
     background-color: rgba(0,200,0,0.8) !important;
+    filter: brightness(120%);
+    text-shadow: 2px 2px 2px black;
 }
 
 /* --------------- */
@@ -198,6 +202,8 @@ body {
 .voice-state:nth-child(4) .avatar.speaking + .user .name {
     /* Couleur du bord de la boite qui contient le pseudo quand la personne parle */
     background-color: rgba(212, 22, 181, 0.8) !important;
+    filter: brightness(120%);
+    text-shadow: 2px 2px 2px black;
 }
 
 /* ----------------- */
@@ -222,6 +228,8 @@ body {
 .voice-state:nth-child(5) .avatar.speaking + .user .name {
     /* Couleur du bord de la boite qui contient le pseudo quand la personne parle */
     background-color: rgba(255,155,0,0.8) !important;
+    filter: brightness(120%);
+    text-shadow: 2px 2px 2px black;
 }
 
 /* ---------------- */
@@ -246,6 +254,8 @@ body {
 .voice-state:nth-child(6) .avatar.speaking + .user .name {
     /* Couleur du bord de la boite qui contient le pseudo quand la personne parle */
     background-color: rgba(255,255,0,0.8) !important;
+    filter: brightness(120%);
+    text-shadow: 2px 2px 2px black;
 }
 
 /* --------------- */
@@ -270,6 +280,8 @@ body {
 .voice-state:nth-child(7) .avatar.speaking + .user .name {
     /* Couleur du bord de la boite qui contient le pseudo quand la personne parle */
     background-color: rgba(71, 71, 71, 0.8) !important;
+    filter: brightness(120%);
+    text-shadow: 2px 2px 2px black;
 }
 
 /* ---------------- */
@@ -294,6 +306,8 @@ body {
 .voice-state:nth-child(8) .avatar.speaking + .user .name {
     /* Couleur du bord de la boite qui contient le pseudo quand la personne parle */
     background-color: rgba(255, 255, 255, 0.8) !important;
+    filter: brightness(120%);
+    text-shadow: 2px 2px 2px black;
 }
 
 /* ----------------- */
@@ -318,6 +332,8 @@ body {
 .voice-state:nth-child(9) .avatar.speaking + .user .name {
     /* Couleur du bord de la boite qui contient le pseudo quand la personne parle */
     background-color: rgba(160, 14, 165, 0.8) !important;
+    filter: brightness(120%);
+    text-shadow: 2px 2px 2px black;
 }
 
 /* ----------------- */
@@ -342,6 +358,8 @@ body {
 .voice-state:nth-child(10) .avatar.speaking + .user .name {
     /* Couleur du bord de la boite qui contient le pseudo quand la personne parle */
     background-color: rgba(99, 61, 11, 0.8) !important;
+    filter: brightness(120%);
+    text-shadow: 2px 2px 2px black;
 }
 
 /* --------------- */
@@ -366,6 +384,8 @@ body {
 .voice-state:nth-child(11) .avatar.speaking + .user .name {
     /* Couleur du bord de la boite qui contient le pseudo quand la personne parle */
     background-color: rgba(9, 192, 224, 0.8) !important;
+    filter: brightness(120%);
+    text-shadow: 2px 2px 2px black;
 }
 
 /* --------------- */
@@ -390,6 +410,8 @@ body {
 .voice-state:nth-child(12) .avatar.speaking + .user .name {
     /* Couleur du bord de la boite qui contient le pseudo quand la personne parle */
     background-color: rgba(9, 224, 170, 0.8) !important;
+    filter: brightness(120%);
+    text-shadow: 2px 2px 2px black;
 }
 
 /* ----------------- */
@@ -414,6 +436,8 @@ body {
 .voice-state:nth-child(13) .avatar.speaking + .user .name {
     /* Couleur du bord de la boite qui contient le pseudo quand la personne parle */
     background-color: rgba(126, 14, 14, 0.8) !important;
+    filter: brightness(120%);
+    text-shadow: 2px 2px 2px black;
 }
 
 /* --------------- */
@@ -438,6 +462,8 @@ body {
 .voice-state:nth-child(14) .avatar.speaking + .user .name {
     /* Couleur du bord de la boite qui contient le pseudo quand la personne parle */
     background-color: rgba(240, 142, 142, 0.8) !important;
+    filter: brightness(120%);
+    text-shadow: 2px 2px 2px black;
 }
 
 /* ----------------- */
@@ -462,6 +488,8 @@ body {
 .voice-state:nth-child(15) .avatar.speaking + .user .name {
     /* Couleur du bord de la boite qui contient le pseudo quand la personne parle */
     background-color: rgba(252, 255, 103, 0.8) !important;
+    filter: brightness(120%);
+    text-shadow: 2px 2px 2px black;
 }
 
 /* --------------- */
@@ -486,6 +514,8 @@ body {
 .voice-state:nth-child(16) .avatar.speaking + .user .name {
     /* Couleur du bord de la boite qui contient le pseudo quand la personne parle */
     background-color: rgba(139, 139, 139, 0.8) !important;
+    filter: brightness(120%);
+    text-shadow: 2px 2px 2px black;
 }
 
 /* -------------- */
@@ -510,6 +540,8 @@ body {
 .voice-state:nth-child(17) .avatar.speaking + .user .name {
     /* Couleur du bord de la boite qui contient le pseudo quand la personne parle */
     background-color: rgba(165, 130, 98, 0.8) !important;
+    filter: brightness(120%);
+    text-shadow: 2px 2px 2px black;
 }
 
 /* ---------------- */
@@ -534,4 +566,6 @@ body {
 .voice-state:nth-child(18) .avatar.speaking + .user .name {
     /* Couleur du bord de la boite qui contient le pseudo quand la personne parle */
     background-color: #ff7f50 !important;
+    filter: brightness(120%);
+    text-shadow: 2px 2px 2px black;
 }
