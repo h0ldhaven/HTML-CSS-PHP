@@ -27,7 +27,7 @@ body {
   
 /* Définition du bloc des avatars */
 .voice-state {
-	/* La taille de vos avatars */
+    /* La taille de vos avatars */
     width: 70px;
     height: 90px;
     margin-right: 30px;
