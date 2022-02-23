@@ -7,7 +7,7 @@ body {
     background-color: rgba(0, 0, 0, 0);
     /* pas de marge extérieure */
     margin: 0;
-    /* pas de marge intérieure */
+    /* pas de marge interieure */
     padding: 0;
     /* on cache ce qui sort de la boite */
     overflow: hidden;
