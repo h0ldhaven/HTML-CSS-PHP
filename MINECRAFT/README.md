@@ -17,6 +17,7 @@ Si vous ne connaissez pas Github :
 
 > - Du code ou Fragment de code en langage "JAVA" pour des Plugins ou Mods divers.
 > - Des pages ou Fragment de pages en langage "TXT" Incluant des commandes diverses à éxecuter dans des blocs de commande in-game.
+> - Des pages ou Fragment de pages en langage "TXT" ou "YML" Incluant des configurations diverses pour plugins ou serveur.
 
 <br/>
 <hr/>
